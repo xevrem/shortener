@@ -14,7 +14,7 @@ Example creation usage:
   https://xev-url-shortener.glitch.me/new/go.twitch.tv
 
 Example creation output
-  { "original_url":"http://foo.com:80", "short_url":"https://xev-url-shortener.glitch.me//8170" }
+  { "original_url":"http://foo.com:80", "short_url":"https://xev-url-shortener.glitch.me/8170" }
 
 Usage:
   https://xev-url-shortener.glitch.me/2871
